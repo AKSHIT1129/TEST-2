@@ -1,4 +1,4 @@
-# FraudShield v1.0.0 (DBMS Project)
+# FraudShield(DBMS Project)
 
 ### Built by Akshit – The Supreme Architect
 
@@ -24,7 +24,6 @@ FraudShield is a highly sophisticated, demonstration-ready AI Fraud Detection sy
 4. Click "execute" to watch the logic tree calculate in the mock-terminal real-time.
 5. Watch the judges be incredibly blown away.
 
-*Built exclusively for the DBMS 2026 Presentation.*
 
 
 
