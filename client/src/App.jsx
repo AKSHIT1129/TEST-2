@@ -11,10 +11,8 @@ import Login from './pages/Login';
 import Register from './pages/Register';
 import Reports from './pages/Reports';
 import LiveThreatSimulator from './components/LiveThreatSimulator';
-
 function App() {
   const { theme, toggleTheme } = useTheme();
-
   return (
     <Router>
       <div className="min-h-screen flex flex-col font-sans transition-colors duration-300">
